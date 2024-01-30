@@ -6,7 +6,7 @@
 - **Email:** ruggerosebastian@gmail.com
 - **Teléfono:** 11-3431-7611
 - **Dirección:** Cochabamba 820 5 A, Ciudad Autónoma de Buenos Aires C1150, Argentina
-- **LinkedIn:** [linkedin.com/in/sebastianruggero](www.linkedin.com/in/sebastianruggero)
+- **LinkedIn:** [linkedin.com/in/sebastianruggero](https:www.linkedin.com/in/sebastianruggero)
 - **GitHub:** [github.com/TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
 - **Fecha de Nacimiento:** 01/08/1974
 
