@@ -90,5 +90,6 @@ IMBEV – Brahma S.A., Mar del Plata, Argentina
 - Gestión de Tiempos
 
 ## Portfolio
-1. Mapa del Delito CABA – [Link Projecto Github](https://github.com/sebasruggero/mapa_del_delito_caba)
-2. Nike Data Analysis and Powerbi report - [Link Projecto Github](https://github.com/sebasruggero/nike_powerbi)
+1. Mapa del Delito CABA – [Github Project](https://github.com/sebasruggero/mapa_del_delito_caba)
+2. Nike Data Analysis and Powerbi report - [Github Project](https://github.com/sebasruggero/nike_powerbi)
+3. Text Analytic - [Github Project](https://github.com/sebasruggero/text_analytics)
