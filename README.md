@@ -1,11 +1,3 @@
----
-title: ABOUT PAGE
-layout: template
-filename: about.md
---- 
-
-[about page](about.md)
-
 # Lic. Sebastian Ruggero
 
 ## Lead Data Scientist and Power Bi Developer 
