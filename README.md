@@ -7,7 +7,7 @@
 - **Teléfono:** 11-3431-7611
 - **Dirección:** Cochabamba 820 5 A, Ciudad Autónoma de Buenos Aires C1150, Argentina
 - **LinkedIn:** [linkedin.com/in/sebastianruggero](www.linkedin.com/in/sebastianruggero)
-- - **GitHub:** [github.com/TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
+- **GitHub:** [github.com/TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
 - **Fecha de Nacimiento:** 01/08/1974
 
 ## Resumen Profesional
