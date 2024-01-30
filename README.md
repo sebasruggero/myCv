@@ -34,7 +34,7 @@ Cirion Technologies (Ex LUMEN), CABA, Argentina
 -	Integración de modelos de machine learning en Power BI para visualización efectiva y análisis predictivo. 
 
 
-### Consultor Datos (11/2020 – 03/2022)
+### Coordinador de datos (11/2020 – 03/2022)
 Ministerio de Transporte de la Nación Argentina - Subsecretaría de Desarrollo Tecnológico y Proyectos Estratégicos, CABA, Argentina  
 
 - Implementación de informes en Power BI para análisis detallado de datos de transporte.
