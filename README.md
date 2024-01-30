@@ -18,21 +18,24 @@ Profesional con una sólida trayectoria en la gestión de proyectos de informaci
 - Especialización en Administración de Empresas - UNICEN (Egresado)
 - Licenciado en Marketing - Universidad FASTA (Egresado)
 
-## Experiencia Laboral
-### Lead Data Scientist and Power BI Developer – OSP (Operation Strategic Programs)
+## Experiencia Laboral 
+
+### Lead Data Scientist and Power BI Developer for Latam Region – OSP (Operation Strategic Programs) (04/2022 – Presente)
 Cirion Technologies (Ex LUMEN), CABA, Argentina  
-04/2022 – Presente
 
-- Liderazgo en proyectos de implementación y desarrollo de soluciones de análisis de datos.
-- Experiencia en SQL Server (DML) y programación T-SQL.
-- Relevamiento de requisitos empresariales para BI y diseño de modelos de datos.
-- Definición de KPI y OKRs, desarrollo de métricas en Power BI.
-- Experiencia en documentación de datos y creación de dataflow, datamart y datalakes.
-- Consumo de datos desde diversas fuentes (SQL, API, Sharepoint, Json, Csv, Excel).
+-	Liderazgo en proyectos de implementación y desarrollo de soluciones de análisis de datos.
+-	Experiencia en SQL Server (DML) y programación T-SQL.
+-	Relevamiento de requisitos empresariales para BI y diseño de modelos de datos.
+-	Definición de KPI y OKRs, desarrollo de métricas en Power BI.
+-	Experiencia en documentación de datos y creación de dataflow, datamart y datalakes.
+-	Consumo de datos desde diversas fuentes (SQL, API, Sharepoint, Json, Csv, Excel).
+-	Experiencia en la creación de workflows de integración utilizando herramientas como Pentaho, KNIME y SSIS para ETL y procesamiento de datos.
+-	Implementación de modelos de machine learning para análisis avanzado de datos.
+-	Integración de modelos de machine learning en Power BI para visualización efectiva y análisis predictivo. 
 
-### Consultor Datos 
+
+### Consultor Datos (11/2020 – 03/2022)
 Ministerio de Transporte de la Nación Argentina - Subsecretaría de Desarrollo Tecnológico y Proyectos Estratégicos, CABA, Argentina  
-11/2020 – 03/2022
 
 - Implementación de informes en Power BI para análisis detallado de datos de transporte.
 - Desarrollo de APP para visualización efectiva de datos.
@@ -41,33 +44,27 @@ Ministerio de Transporte de la Nación Argentina - Subsecretaría de Desarrollo 
 - Capacitación del personal en herramientas analíticas.
 - Propuestas de mejora de sistemas de información relacionados con el transporte.
 
-### Coordinador oficina de Convenios y Contrataciones 1109-17 
+### Coordinador oficina de Convenios y Contrataciones 1109-17 (02/2020 – 10/2020)
 Ministerio de Transporte de la Nación Argentina - Subsecretaría de Gestión Administrativa, CABA, Argentina  
-02/2020 – 10/2020
 
-### Asesor técnico oficina de Convenios y Contrataciones 1109-17
+### Asesor técnico oficina de Convenios y Contrataciones 1109-17 (04/2017 – 01/2020)
 Ministerio de Transporte de la Nación Argentina - Subsecretaría de Coordinación Administrativa, CABA, Argentina  
-04/2017 – 01/2020
 
-### Asesor técnico – Dirección de Compras y Contrataciones
+### Asesor técnico – Dirección de Compras y Contrataciones (02/2016 – 03/2017)
 Ministerio de Cultura de la Nación Argentina - Subsecretaría de Coordinación Administrativa, CABA, Argentina  
-02/2016 – 03/2017
 
-### Consultor
+### Consultor (02/2012 – 03/2018)
 Servicios de consultoría, CABA y Mar del Plata, Argentina  
-02/2012 – 03/2018
 
-### Gerente Comercial
+### Gerente Comercial (02/2008 – 12/2011)
 Lácteos El Amanecer, Mar del Plata, Argentina  
-02/2008 – 12/2011
 
-### Jefe de Ventas
+### Jefe de Ventas (04/2003 – 12/2007)
 Cafés La Virginia S.A., Mar del Plata, Argentina  
-04/2003 – 12/2007
 
-### Jefe de Marketing
+### Jefe de Marketing (04/2002 – 03/2003)
 IMBEV – Brahma S.A., Mar del Plata, Argentina  
-04/2002 – 03/2003
+
 
 ## Cursos en la APN
 - Inteligencia del Negocio: Aplicación Microsoft POWER BI (11/2019)
