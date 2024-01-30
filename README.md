@@ -90,8 +90,5 @@ IMBEV – Brahma S.A., Mar del Plata, Argentina
 - Gestión de Tiempos
 
 ## Portfolio
-1. Real Time OKR Dashboard - Reporte en tiempo real – Automatizado cada 1 min
-2. Data Scientist Jobs Market Analysis – Reporte de análisis de recursos humanos
-3. SLT Report – Modelo de reporte directivo de OKRs y KPIs
-4. Mapa de Incidentes – Mapa GIS de incidentes en LATAM
-5. Mapa del Delito CABA – [Projecto Github](https://github.com/sebasruggero/mapa_del_delito_caba)
+1. Mapa del Delito CABA – [Projecto Github](https://github.com/sebasruggero/mapa_del_delito_caba)
+2. Nike Data Analysis and Powerbi report - [Nike](https://github.com/sebasruggero/nike_powerbi)
